@@ -1,0 +1,6 @@
+{
+  "name": "Firebase Auth & User Portal",
+  "description": "Secure login, registration, password recovery, and authenticated dashboard application powered by Firebase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
